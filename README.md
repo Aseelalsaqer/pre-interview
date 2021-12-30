@@ -1,4 +1,7 @@
-# pre-interview
+# pre-interview:
+
+## Q1:
+![](Solution/Q1.PNG)
 ## Q2-1:
 ![](Solution/Q2-1.PNG)
 ## Q2-2:
